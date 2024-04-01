@@ -1,0 +1,7 @@
+name: plantillas_cookiecutter
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: /home/gerardo19/anaconda3/envs/plantillas_cookiecutter
