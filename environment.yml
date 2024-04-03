@@ -1,4 +1,4 @@
-name: plantillas_cookiecutter
+name: plantillas_proyectos_cd
 channels:
   - conda-forge
   - defaults
